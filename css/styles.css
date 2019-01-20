@@ -3,6 +3,10 @@
     padding: 0px auto;
 }
 
+h2, h3 {
+font-weight: 600;
+}
+
 
 .row-content {
 
